@@ -32,6 +32,10 @@ Run the database migrations
 Seed th roles,permissions and users
 
     php artisan db:seed
+
+Run the tests suite
+
+    php artisan test
     
 Start the local development server
 
